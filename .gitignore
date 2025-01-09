@@ -1,2 +1,8 @@
 airdrop/Turbin3-wallet.json
 airdrop/dev-wallet.json
+
+enrollment-dapp-rust/Turbin3-wallet.json
+enrollment-dapp-rust/dev-wallet.json
+
+airdrop/node_modules
+enrollment-dapp-rust/target
